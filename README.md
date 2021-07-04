@@ -1,4 +1,4 @@
-"# Http-domain-verification" 
+# Http-domain-verification
 
 Steps to follow :
 1. Add the file which you downloaded during the ssl verification process.
